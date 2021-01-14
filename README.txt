@@ -4,9 +4,6 @@ My Portfolio
 Credits:
 	HTML5UP: 
 		AJ (aj@lkn.io | @ajlkn)
-	
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
